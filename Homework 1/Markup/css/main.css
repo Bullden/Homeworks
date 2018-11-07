@@ -1,0 +1,47 @@
+body {
+	background-color:#f6f6f6; 
+}
+* {
+	font-family: Arial;
+}
+.container {
+	width: 315px;
+}
+.image {
+	width: 100%;
+}
+.data {
+	color: #1b90cf;
+	font-size: 12px;
+	letter-spacing: 0.6px;
+}
+.headline {
+	color: #1b90cf;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: 700;
+}
+.paragraph {
+	color: #575756;
+	font-size: 15px;
+	line-height: 23px;
+	letter-spacing: 0.75px;
+}
+.link {
+	color: #1b90cf;
+	text-decoration: none;
+	letter-spacing: 0.75px;
+}
+.point {
+	text-decoration: underline;
+}
+.button {
+	background-color:#1b90cf;
+	color: #ffffff; 
+	font-weight: 700;
+	padding: 16px;
+	border: 0;
+	letter-spacing: 0.8px;
+	text-decoration: none;
+	line-height: 33px;
+}
